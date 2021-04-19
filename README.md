@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on python projects
+- 🔭 I’m currently working on machine learning projects
 - 🌱 I’m currently learning artificial intelligence
 - 👯 I’m looking to collaborate on fun projects
 - 🤔 I’m looking for help with AI
